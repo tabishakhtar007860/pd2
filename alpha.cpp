@@ -1,0 +1,46 @@
+#include <iostream>
+using namespace std;
+main(){
+cout<<"                   ##"<<endl;
+cout<<"                  ## ##"<<endl;
+cout<<"                 ##  ##"<<endl;
+cout<<"                 ##  ##"<<endl;
+cout<<"                 ######"<<endl;
+cout<<"                 ##  ##"<<endl;
+cout<<"                 ##  ##"<<endl;
+cout<<"  _____________________________"<<endl;
+cout<<"            ##      ##"<<endl;
+cout<<"             ##    ##"<<endl;
+cout<<"               ####"<<endl;
+cout<<"              ##   ##"<<endl;
+cout<<"            ##      ##"<<endl;
+cout<<" ______________________________"<<endl;
+cout<<"         ______"<<endl;
+cout<<"              /   "<<endl;
+cout<<"             /   "<<endl;
+cout<<"            /"<<endl;
+cout<<"           /_____"<<endl;
+cout<<"______________________________ "<<endl;
+cout<<"  ##    #"<<endl;
+cout<<"  ##   #"<<endl;
+cout<<"  ##  #"<<endl;
+cout<<"  ####"<<endl;
+cout<<"  ###"<<endl;
+cout<<"  ## #"<<endl;
+cout<<"  ##  # "<<endl;
+cout<<"  ##   #"<<endl;
+cout<<"  ##    #"<<endl;
+cout<<"______________________________ "<<endl;
+cout<<"              ::::::::"<<endl;
+cout<<"              ::     :"<<endl;
+cout<<"               ::::"<<endl;
+cout<<"                  ::"<<endl;
+cout<<"             :::::::"<<endl;
+cout<<"______________________________ "<<endl;
+cout<<"   ##     ##"<<endl;
+cout<<"   ##     ##"<<endl;
+cout<<"   ##     ##"<<endl;
+cout<<"   ##     ##"<<endl;
+cout<<"   ##     ##"<<endl;
+cout<<"   #########"<<endl;
+}
